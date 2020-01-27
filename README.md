@@ -20,6 +20,7 @@ In addition, this project will include:
 
 ### Wireframes
 This would be a custom video player library that others users can import to their project. I will have a demo website having a video at the center and users can see the APIs when the scroll down the webpage.
+![](https://github.com/guw005/MyVid/blob/master/wireframe.png)
 
 ### Architecture and Technologies
 This project will be implemented with the following technologies:
